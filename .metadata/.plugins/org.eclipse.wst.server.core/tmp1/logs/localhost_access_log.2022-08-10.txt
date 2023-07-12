@@ -1,0 +1,11 @@
+127.0.0.1 - - [10/Aug/2022:12:37:20 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:12:37:20 +0530] "GET /DemoRestExample/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:12:37:20 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:12:38:10 +0530] "GET /DemoRestExample/bookinfo/book/getListOfBooks HTTP/1.1" 200 12
+127.0.0.1 - - [10/Aug/2022:12:46:08 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:12:46:09 +0530] "GET /DemoRestExample/ HTTP/1.1" 404 771
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:12:47:09 +0530] "GET /DemoRestExample/bookinfo/book/getListOfBooks HTTP/1.1" 200 866
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:12:47:18 +0530] "GET /DemoRestExample/bookinfo/book/getListOfBooks HTTP/1.1" 200 866
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:17:35:56 +0530] "GET /DemoRestExample/bookinfo/book/getListOfBooks HTTP/1.1" 200 866
+0:0:0:0:0:0:0:1 - - [10/Aug/2022:17:35:56 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [10/Aug/2022:17:36:27 +0530] "GET /DemoRestExample/bookinfo/book/getListOfBooks HTTP/1.1" 200 866

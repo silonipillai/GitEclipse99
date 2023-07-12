@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.smartims.action.RegsiterUnderWriter&apos; to &apos;RegisterUnderWriter&apos;&#x0D;&#x0A;- Original project: &apos;ims&apos;&#x0D;&#x0A;- Original element: &apos;com.smartims.action.RegsiterUnderWriter&apos;&#x0D;&#x0A;- Renamed element: &apos;com.smartims.action.RegisterUnderWriter&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RegsiterUnderWriter&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.smartims.action{RegsiterUnderWriter.java[RegsiterUnderWriter" matchStrategy="1" name="RegisterUnderWriter" qualified="false" references="true" similarDeclarations="false" stamp="1654841090225" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;PremiumAction.java&apos; to &apos;com.smartims.action.ReviewPolicyAction.java&apos;&#x0D;&#x0A;- Original project: &apos;Insurance&apos;&#x0D;&#x0A;- Destination element: &apos;com.smartims.action.ReviewPolicyAction.java&apos;&#x0D;&#x0A;- Original element: &apos;com.insurance.action.PremiumAction.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=ims/src&lt;com.smartims.action{ReviewPolicyAction.java" element1="/src&lt;com.insurance.action{PremiumAction.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1655443463741" units="1" version="1.0"/>
+</session>
